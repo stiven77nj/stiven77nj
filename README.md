@@ -3,7 +3,7 @@
 
 <div>
   <p style = 'text-align:center;'>
-  <img src="https://drive.google.com/file/d/17omhPk6ycPgEGuTT3UwatpC7EfTlsAyb/view?usp=sharing" alt="Banner" width="100%">
+  <img src="./Banner.png" alt="Banner" width="100%">
   </p>
 </div>
 
