@@ -16,7 +16,7 @@
 
 - 📄 Conoce de mis experiencias en [www.linkedin.com/in/stiven77](www.linkedin.com/in/stiven77)
 
-<h3 align="left">Contactamen por:</h3>
+<h3 align="left">Contacto por:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stiven77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stiven77" height="30" width="40" /></a>
 </p>
